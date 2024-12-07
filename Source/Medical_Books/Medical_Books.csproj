@@ -56,6 +56,7 @@
     <Compile Include="BookOutcomeProperties_FirstAidBook.cs" />
     <Compile Include="BookOutcomeProperties_SurgicalBook.cs" />
     <Compile Include="MedicalBooksDefOf.cs" />
+    <Compile Include="MedicalBooksUtility.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReadingOutcomeDoerFirstAidBook.cs" />
     <Compile Include="ReadingOutcomeDoerSurgicalBook.cs" />

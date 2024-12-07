@@ -18,11 +18,11 @@ namespace Medical_Books
                 health.AddHediff(MedicalBooksDefOf.BBLK_FirstAidBook_Knowledge);
                 return;
             }
-            hediff.Severity += 0.01f;
+            hediff.Severity += MedicalBooksUtility.Knowledge(Quality);
         }
         public override string GetBenefitsString(Pawn reader = null)
         {
-            return "";
+            return string.Format(" - {0}: +{1}", "BBLK_FirstAidBook_Quality".Translate(), MedicalBooksUtility.Knowledge(Quality));
         }
     }
 }
