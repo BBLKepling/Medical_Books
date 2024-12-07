@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Medical Books</name>
+  <author>bblkepling</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>bblkepling.medicalbooks</packageId>
+  <description>Adds medical books to increase doctors capabilities, and let's doctors read novels to patients.</description>
+  <modDependencies>
+<!--    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>-->
+  </modDependencies>
+</ModMetaData>
