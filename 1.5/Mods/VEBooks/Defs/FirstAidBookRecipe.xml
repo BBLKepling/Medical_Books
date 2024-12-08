@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <RecipeDef>
+    <defName>BBLK_WriteFirstAidBook</defName>
+    <label>write first aid book</label>
+    <description>Write first aid book.</description>
+    <jobString>write first aid book.</jobString>
+    <workSpeedStat>ResearchSpeed</workSpeedStat>
+    <workSkill>Artistic</workSkill>
+    <unfinishedThingDef>VBE_UnfinishedBook</unfinishedThingDef>
+    <effectWorking>Sculpt</effectWorking>
+    <soundWorking>Recipe_Write</soundWorking>
+    <recipeUsers>
+      <li>VBE_WritersTable</li>
+      <li>VBE_TypewritersTable</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Cloth</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Cloth</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BBLK_FirstAidBook>1</BBLK_FirstAidBook>
+    </products>
+  </RecipeDef>
+
+</Defs>

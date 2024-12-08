@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <WorkGiverDef>
+    <defName>BBLK_Doctor_PatientStory</defName>
+    <label>read patient story</label>
+    <giverClass>Medical_Books.WorkGiver_PatientStory</giverClass>
+    <workType>Doctor</workType>
+    <verb>read to</verb>
+    <gerund>reading to</gerund>
+    <priorityInType>11</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+      <li>Sight</li>
+      <li>Talking</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+
+  <JobDef>
+    <defName>BBLK_Job_PatientStory</defName>
+    <reportString>reading TargetC to TargetB.</reportString>
+    <driverClass>Medical_Books.JobDriver_PatientStory</driverClass>
+    <casualInterruptible>false</casualInterruptible>
+    <joyDuration>3600</joyDuration> <!-- 60 sec -->
+    <joyKind>Reading</joyKind>
+  </JobDef>
+
+  <JobDef>
+    <defName>BBLK_Job_PatientListen</defName>
+    <reportString>listening to TargetA.</reportString>
+    <driverClass>Medical_Books.JobDriver_PatientListen</driverClass>
+    <casualInterruptible>false</casualInterruptible>
+    <learningDuration>3600</learningDuration>
+  </JobDef>
+
+  <InteractionDef>
+    <defName>BBLK_PatientStory</defName>
+    <label>read</label>
+    <workerClass>InteractionWorker</workerClass>
+    <ignoreTimeSinceLastInteraction>True</ignoreTimeSinceLastInteraction>
+    <symbol>Things/Item/Book/Novel/Novel_Open_east</symbol>
+    <logRulesInitiator>
+      <rulesStrings>
+        <li>r_logentry->[INITIATOR_nameDef] [action] made [RECIPIENT_nameDef] [reaction].</li>
+        <li>action-></li>
+        <li>reaction-></li>
+      </rulesStrings>
+    </logRulesInitiator>
+  </InteractionDef>
+
+  <TaleDef>
+    <defName>BBLK_PatientStory_Tale</defName>
+    <label>bed time story told</label>
+    <taleClass>Medical_Books.Tale_DoublePawnAndThing</taleClass>
+    <type>Volatile</type>
+    <firstPawnSymbol>READER</firstPawnSymbol>
+    <secondPawnSymbol>PATIENT</secondPawnSymbol>
+    <baseInterest>1</baseInterest>
+    <rulePack>
+      <rulesStrings>
+        <li>tale_noun->[READER_nameDef] reading [THING_title] to [PATIENT_nameDef]</li> <!-- "this refers to" -->
+        <li>image->[READER_nameFull] reading [THING_title] to [PATIENT_nameFull] [circumstance_group]</li> <!-- 1st -->
+        <li>circumstance_phrase->as [PATIENT_pronoun] gets ready to sleep</li> <!-- 2nd -->
+        <li>desc_sentence->[PATIENT_nameDef] is [reaction].</li> <!-- 3rd -->
+        <li>reaction-></li>
+      </rulesStrings>
+    </rulePack>
+  </TaleDef>
+
+</Defs>

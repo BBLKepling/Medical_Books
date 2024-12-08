@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <RecipeDef>
+    <defName>BBLK_WriteSurgicalBook</defName>
+    <label>write surgical book</label>
+    <description>Write surgical book.</description>
+    <jobString>write surgical book.</jobString>
+    <workSpeedStat>ResearchSpeed</workSpeedStat>
+    <workSkill>Artistic</workSkill>
+    <unfinishedThingDef>VBE_UnfinishedBook</unfinishedThingDef>
+    <effectWorking>Sculpt</effectWorking>
+    <soundWorking>Recipe_Write</soundWorking>
+    <recipeUsers>
+      <li>VBE_WritersTable</li>
+      <li>VBE_TypewritersTable</li>
+    </recipeUsers>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Cloth</li>
+          </thingDefs>
+        </filter>
+        <count>100</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Cloth</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BBLK_SurgicalBook>1</BBLK_SurgicalBook>
+    </products>
+  </RecipeDef>
+
+</Defs>
