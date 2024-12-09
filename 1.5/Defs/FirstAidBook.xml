@@ -3,8 +3,8 @@
 
   <ThingDef ParentName="BookBase">
     <defName>BBLK_FirstAidBook</defName>
-    <label>first aid book</label>
-    <description>A first aid book, doctors will perform first aid better when they study these.</description>
+    <label>first aid manual</label>
+    <description>A first aid manual, doctors will perform first aid better when they study these.</description>
     <graphicData>
       <texPath>Things/Item/Book/Textbook/Textbook</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -98,7 +98,7 @@
         <li>title(quality[less_than]2)->[dumb] guide to [medField]</li>
         <li>title(quality[greater_than]1)->Secrets of [medField]</li>
 		
-        <li>medField->Amputation</li>
+        <li>medField->First Aid</li>
 		
         <li>dumb->Dummies</li>
         <li>dumb->Idiots</li>

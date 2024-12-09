@@ -4,6 +4,4 @@
   <BBLK_SurgicalBook_Quality>Surgical Knowledge gain rate</BBLK_SurgicalBook_Quality>
   <BBLK_FirstAidBook_Quality>First Aid Knowledge gain rate</BBLK_FirstAidBook_Quality>
   
-  <BBLK_MedicalBooks_Listen>listening to {PAWN_nameDef}</BBLK_MedicalBooks_Listen>
-  
 </LanguageData>

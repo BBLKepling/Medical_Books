@@ -6,7 +6,7 @@
     <li>1.5</li>
   </supportedVersions>
   <packageId>bblkepling.medicalbooks</packageId>
-  <description>Adds medical books to increase doctors capabilities, and let's doctors read novels to patients.</description>
+  <description>Adds medical books to increase doctors capabilities.</description>
   <modDependencies>
 <!--    <li>
       <packageId>brrainz.harmony</packageId>
