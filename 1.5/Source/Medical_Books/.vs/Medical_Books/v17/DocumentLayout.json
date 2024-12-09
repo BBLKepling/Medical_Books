@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\bookoutcomeproperties_firstaidbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:bookoutcomeproperties_firstaidbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\jobdriver_patientstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:jobdriver_patientstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\readingoutcomedoersurgicalbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:readingoutcomedoersurgicalbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\jobdriver_patientlisten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:jobdriver_patientlisten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\medical_books\\1.5\\source\\medical_books\\tale_doublepawnandthing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:tale_doublepawnandthing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\medical_books\\1.5\\source\\medical_books\\workgiver_patientstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:workgiver_patientstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\medical_books\\1.5\\source\\medical_books\\readingoutcomedoerfirstaidbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:readingoutcomedoerfirstaidbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\medicalbooksdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:medicalbooksdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\medicalbooksutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:medicalbooksutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\medicalbooksdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:medicalbooksdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\tale_doublepawnandthing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:tale_doublepawnandthing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\readingoutcomedoerfirstaidbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:readingoutcomedoerfirstaidbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\readingoutcomedoersurgicalbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:readingoutcomedoersurgicalbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\bookoutcomeproperties_firstaidbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:bookoutcomeproperties_firstaidbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\bookoutcomeproperties_surgicalbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,41 +55,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ReadingOutcomeDoerSurgicalBook.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\ReadingOutcomeDoerSurgicalBook.cs",
-              "RelativeDocumentMoniker": "ReadingOutcomeDoerSurgicalBook.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\ReadingOutcomeDoerSurgicalBook.cs",
-              "RelativeToolTip": "ReadingOutcomeDoerSurgicalBook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Title": "JobDriver_PatientListen.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\JobDriver_PatientListen.cs",
+              "RelativeDocumentMoniker": "JobDriver_PatientListen.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\JobDriver_PatientListen.cs",
+              "RelativeToolTip": "JobDriver_PatientListen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T10:46:01.666Z",
+              "WhenOpened": "2024-12-08T08:36:43.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "JobDriver_PatientStory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\JobDriver_PatientStory.cs",
+              "RelativeDocumentMoniker": "JobDriver_PatientStory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\JobDriver_PatientStory.cs",
+              "RelativeToolTip": "JobDriver_PatientStory.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwBUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:34:30.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkGiver_PatientStory.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\WorkGiver_PatientStory.cs",
+              "RelativeDocumentMoniker": "WorkGiver_PatientStory.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\WorkGiver_PatientStory.cs",
+              "RelativeToolTip": "WorkGiver_PatientStory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:31:57.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "BookOutcomeProperties_FirstAidBook.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\BookOutcomeProperties_FirstAidBook.cs",
               "RelativeDocumentMoniker": "BookOutcomeProperties_FirstAidBook.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\BookOutcomeProperties_FirstAidBook.cs",
               "RelativeToolTip": "BookOutcomeProperties_FirstAidBook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T10:41:52.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReadingOutcomeDoerFirstAidBook.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\ReadingOutcomeDoerFirstAidBook.cs",
-              "RelativeDocumentMoniker": "ReadingOutcomeDoerFirstAidBook.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\ReadingOutcomeDoerFirstAidBook.cs",
-              "RelativeToolTip": "ReadingOutcomeDoerFirstAidBook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T10:45:51.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T10:41:52.958Z"
             },
             {
               "$type": "Document",
@@ -87,40 +111,14 @@
               "RelativeDocumentMoniker": "MedicalBooksUtility.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\MedicalBooksUtility.cs",
               "RelativeToolTip": "MedicalBooksUtility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T12:41:24.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MedicalBooksDefOf.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\MedicalBooksDefOf.cs",
-              "RelativeDocumentMoniker": "MedicalBooksDefOf.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\MedicalBooksDefOf.cs",
-              "RelativeToolTip": "MedicalBooksDefOf.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T10:37:06.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tale_DoublePawnAndThing.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\Tale_DoublePawnAndThing.cs",
-              "RelativeDocumentMoniker": "Tale_DoublePawnAndThing.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\Tale_DoublePawnAndThing.cs",
-              "RelativeToolTip": "Tale_DoublePawnAndThing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T00:07:59.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "BookOutcomeProperties_SurgicalBook.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\BookOutcomeProperties_SurgicalBook.cs",
               "RelativeDocumentMoniker": "BookOutcomeProperties_SurgicalBook.cs",
@@ -128,8 +126,56 @@
               "RelativeToolTip": "BookOutcomeProperties_SurgicalBook.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T10:41:42.693Z",
+              "WhenOpened": "2024-12-07T10:41:42.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MedicalBooksDefOf.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\MedicalBooksDefOf.cs",
+              "RelativeDocumentMoniker": "MedicalBooksDefOf.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\MedicalBooksDefOf.cs",
+              "RelativeToolTip": "MedicalBooksDefOf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:37:06.124Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadingOutcomeDoerSurgicalBook.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\ReadingOutcomeDoerSurgicalBook.cs",
+              "RelativeDocumentMoniker": "ReadingOutcomeDoerSurgicalBook.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\ReadingOutcomeDoerSurgicalBook.cs",
+              "RelativeToolTip": "ReadingOutcomeDoerSurgicalBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:46:01.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadingOutcomeDoerFirstAidBook.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\ReadingOutcomeDoerFirstAidBook.cs",
+              "RelativeDocumentMoniker": "ReadingOutcomeDoerFirstAidBook.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\ReadingOutcomeDoerFirstAidBook.cs",
+              "RelativeToolTip": "ReadingOutcomeDoerFirstAidBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:45:51.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tale_DoublePawnAndThing.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\Tale_DoublePawnAndThing.cs",
+              "RelativeDocumentMoniker": "Tale_DoublePawnAndThing.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\Tale_DoublePawnAndThing.cs",
+              "RelativeToolTip": "Tale_DoublePawnAndThing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T00:07:59.866Z"
             }
           ]
         }
