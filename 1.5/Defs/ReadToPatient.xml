@@ -3,7 +3,7 @@
 
   <WorkGiverDef>
     <defName>BBLK_Doctor_PatientStory</defName>
-    <label>read patient story</label>
+    <label>read to sick people</label>
     <giverClass>Medical_Books.WorkGiver_PatientStory</giverClass>
     <workType>Doctor</workType>
     <verb>read to</verb>
@@ -30,7 +30,8 @@
     <reportString>listening to TargetA.</reportString>
     <driverClass>Medical_Books.JobDriver_PatientListen</driverClass>
     <casualInterruptible>false</casualInterruptible>
-    <learningDuration>3600</learningDuration>
+    <joyDuration>3600</joyDuration> <!-- 60 sec -->
+    <joyKind>Reading</joyKind>
   </JobDef>
 
   <InteractionDef>

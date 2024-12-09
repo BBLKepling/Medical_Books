@@ -111,6 +111,10 @@ namespace Medical_Books
                 {
                     JoyUtility.JoyTickCheckEnd(pawn, JoyTickFullJoyAction.None, Book.JoyFactor * BookUtility.GetReadingBonus(pawn));
                 }
+                if (Patient.CurJob.def == MedicalBooksDefOf.BBLK_Job_PatientListen && Patient.needs?.joy != null)
+                {
+                    JoyUtility.JoyTickCheckEnd(Patient, JoyTickFullJoyAction.None, Book.JoyFactor * BookUtility.GetReadingBonus(Patient));
+                }
                 if (ticksLeftThisToil <= 0) pawn.jobs.curDriver.ReadyForNextToil();
                 if (pawn.IsHashIntervalTick(600))
                 {
