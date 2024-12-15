@@ -2,7 +2,7 @@
 <Patch>
 
         <Operation Class="PatchOperationReplace">
-          <xpath>Defs/RecipeDef[defName="BBLK_WriteFirstAidBook" or defName="BBLK_WriteSurgicalBook"]/ingredients</xpath>
+          <xpath>Defs/RecipeDef[defName="BBLK_WriteFirstAidBook" or defName="BBLK_WriteSurgicalBook" or defName="BBLK_WriteBirthBook"]/ingredients</xpath>
           <value>
             <ingredients>
               <li>
@@ -34,7 +34,7 @@
         </Operation>
         
         <Operation Class="PatchOperationReplace">
-          <xpath>Defs/RecipeDef[defName="BBLK_WriteFirstAidBook" or defName="BBLK_WriteSurgicalBook"]/fixedIngredientFilter</xpath>
+          <xpath>Defs/RecipeDef[defName="BBLK_WriteFirstAidBook" or defName="BBLK_WriteSurgicalBook" or defName="BBLK_WriteBirthBook"]/fixedIngredientFilter</xpath>
           <value>
             <fixedIngredientFilter>
               <stuffCategoriesToAllow>
