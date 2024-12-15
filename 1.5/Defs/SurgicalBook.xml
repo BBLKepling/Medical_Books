@@ -32,7 +32,9 @@
         </verticalGraphic>
         <doers>
           <li Class="Medical_Books.BookOutcomeProperties_AddHediff">
+		    <benefitsString>BBLK_SurgicalBook_Quality</benefitsString>
 		    <hediffDef>BBLK_SurgicalBook_Knowledge</hediffDef>
+		    <severityGain>0.001</severityGain>
           </li>
         </doers>
       </li>

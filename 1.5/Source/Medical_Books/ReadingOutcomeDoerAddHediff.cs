@@ -18,11 +18,15 @@ namespace Medical_Books
                 health.AddHediff(Props.hediffDef);
                 return;
             }
-            hediff.Severity += MedicalBooksUtility.Knowledge(Quality);
+            hediff.Severity += Knowledge(Quality);
         }
         public override string GetBenefitsString(Pawn reader = null)
         {
-            return string.Format(" - {0}: +{1}% {2}", "BBLK_BirthBook_Quality".Translate(), MedicalBooksUtility.Knowledge(Quality) * 100f, "BBLK_Knowledge_PerSec".Translate());
+            return string.Format(" - {0}: +{1}% {2}", Props.benefitsString.Translate(), Knowledge(Quality) * 100f, "BBLK_Knowledge_PerSec".Translate());
+        }
+        public float Knowledge(QualityCategory qc)
+        {
+            return Props.severityGain * (float)qc;
         }
     }
 }

@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:ritualoutcomecomp_hediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\medical_books\\1.5\\source\\medical_books\\readingoutcomedoeraddhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\readingoutcomedoeraddhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:readingoutcomedoeraddhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\medical_books\\1.5\\source\\medical_books\\bookoutcomeproperties_addhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\bookoutcomeproperties_addhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:bookoutcomeproperties_addhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\medical_books\\1.5\\source\\medical_books\\medicalbooksutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFBDB5F-280B-4DA7-B1C1-FA15D2752A26}|Medical_Books.csproj|solutionrelative:medicalbooksutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +32,7 @@
               "RelativeDocumentMoniker": "BookOutcomeProperties_AddHediff.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\BookOutcomeProperties_AddHediff.cs",
               "RelativeToolTip": "BookOutcomeProperties_AddHediff.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T09:29:30.843Z",
               "EditorCaption": ""
@@ -49,7 +45,7 @@
               "RelativeDocumentMoniker": "ReadingOutcomeDoerAddHediff.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\ReadingOutcomeDoerAddHediff.cs",
               "RelativeToolTip": "ReadingOutcomeDoerAddHediff.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T09:28:14.626Z",
               "EditorCaption": ""
@@ -62,22 +58,9 @@
               "RelativeDocumentMoniker": "RitualOutcomeComp_Hediff.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\RitualOutcomeComp_Hediff.cs",
               "RelativeToolTip": "RitualOutcomeComp_Hediff.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDEAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-15T08:42:28.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MedicalBooksUtility.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\MedicalBooksUtility.cs",
-              "RelativeDocumentMoniker": "MedicalBooksUtility.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Medical_Books\\1.5\\Source\\Medical_Books\\MedicalBooksUtility.cs",
-              "RelativeToolTip": "MedicalBooksUtility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T12:41:24.689Z",
               "EditorCaption": ""
             }
           ]
