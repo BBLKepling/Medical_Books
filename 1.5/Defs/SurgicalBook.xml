@@ -31,7 +31,9 @@
           <addTopAltitudeBias>true</addTopAltitudeBias>
         </verticalGraphic>
         <doers>
-          <li Class="Medical_Books.BookOutcomeProperties_SurgicalBook" />
+          <li Class="Medical_Books.BookOutcomeProperties_AddHediff">
+		    <hediffDef>BBLK_SurgicalBook_Knowledge</hediffDef>
+          </li>
         </doers>
       </li>
     </comps>
@@ -40,8 +42,8 @@
   <HediffDef>
     <defName>BBLK_SurgicalBook_Knowledge</defName>
     <label>surgical knowledge</label>
-    <description>.</description>
-    <descriptionShort>.</descriptionShort>
+    <description>Surgical knowledge from studying surgical books.</description>
+    <descriptionShort>Surgical knowledge from studying surgical books.</descriptionShort>
     <hediffClass>HediffWithComps</hediffClass>
     <defaultLabelColor>(0.6, 0.6, 1.0)</defaultLabelColor>
     <isBad>false</isBad>
@@ -97,8 +99,15 @@
         <li>title(quality[less_than]2)->[medField] for [dumb]</li>
         <li>title(quality[less_than]2)->[dumb] guide to [medField]</li>
         <li>title(quality[greater_than]1)->Secrets of [medField]</li>
+        <li>title(quality[greater_than]1)->[herbJob] guide to [medField]</li>
+		
+        <li>herbField->Herbalism</li>
+		
+        <li>herbJob->Apothecaries</li>
+        <li>herbJob->Herbalist</li>
 		
         <li>medField->Amputation</li>
+        <li>medField->Vivisection</li>
 		
         <li>dumb->Dummies</li>
         <li>dumb->Idiots</li>

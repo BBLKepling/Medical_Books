@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/RitualOutcomeEffectDef[defName="ChildBirth"]/comps</xpath>
+    <value>
+      <li Class="Medical_Books.RitualOutcomeComp_Hediff">
+        <label>{PAWN_labelShort}'s birth knowledge</label>
+        <labelAbstract>doctor's birth knowledge</labelAbstract>
+        <roleId>doctor</roleId>
+        <hediffDef>BBLK_Birth_Knowledge</hediffDef>
+        <curve>
+          <points>
+            <li>(0, 0.0)</li>
+            <li>(0.2, 0.01)</li>
+            <li>(0.4, 0.02)</li>
+            <li>(0.6, 0.03)</li>
+            <li>(0.8, 0.04)</li>
+            <li>(1, 0.05)</li>
+          </points>
+        </curve>
+      </li>
+    </value>
+  </Operation>
+
+</Patch>

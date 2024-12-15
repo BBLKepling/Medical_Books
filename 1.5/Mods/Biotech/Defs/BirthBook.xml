@@ -2,9 +2,9 @@
 <Defs>
 
   <ThingDef ParentName="BookBase">
-    <defName>BBLK_FirstAidBook</defName>
-    <label>first aid manual</label>
-    <description>A first aid manual, doctors will perform first aid better when they study these.</description>
+    <defName>BBLK_BirthBook</defName>
+    <label>birth manual</label>
+    <description>A birth manual, doctors will deliver babies better when they study these.</description>
     <graphicData>
       <texPath>Things/Item/Book/Textbook/Textbook</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -17,8 +17,8 @@
     </statBases>
     <comps>
       <li Class="CompProperties_Book">
-        <nameMaker>BBLK_FirstAidBook_Namer</nameMaker>
-        <descriptionMaker>BBLK_FirstAidBook_Description</descriptionMaker>
+        <nameMaker>BBLK_BirthBook_Namer</nameMaker>
+        <descriptionMaker>BBLK_BirthBook_Description</descriptionMaker>
         <ageYearsRange>100~200</ageYearsRange>
         <openGraphic>
           <texPath>Things/Item/Book/Textbook/Textbook_Open</texPath>
@@ -32,7 +32,7 @@
         </verticalGraphic>
         <doers>
           <li Class="Medical_Books.BookOutcomeProperties_AddHediff">
-		    <hediffDef>BBLK_FirstAidBook_Knowledge</hediffDef>
+		    <hediffDef>BBLK_Birth_Knowledge</hediffDef>
           </li>
         </doers>
       </li>
@@ -40,10 +40,10 @@
   </ThingDef>
 
   <HediffDef>
-    <defName>BBLK_FirstAidBook_Knowledge</defName>
-    <label>first aid knowledge</label>
-    <description>First aid knowledge from studying first aid books.</description>
-    <descriptionShort>First aid knowledge from studying first aid books.</descriptionShort>
+    <defName>BBLK_Birth_Knowledge</defName>
+    <label>birth knowledge</label>
+    <description>Birth knowledge from studying birth books.</description>
+    <descriptionShort>Birth knowledge from studying birth books.</descriptionShort>
     <hediffClass>HediffWithComps</hediffClass>
     <defaultLabelColor>(0.6, 0.6, 1.0)</defaultLabelColor>
     <isBad>false</isBad>
@@ -62,38 +62,21 @@
       </li>
       <li>
         <minSeverity>0.2</minSeverity>
-        <statOffsets>
-          <MedicalTendSpeed>0.05</MedicalTendSpeed>
-          <MedicalTendQuality>0.05</MedicalTendQuality>
-        </statOffsets>
-        <statFactors />
       </li>
       <li>
         <minSeverity>0.4</minSeverity>
-        <statOffsets>
-          <MedicalTendSpeed>0.1</MedicalTendSpeed>
-          <MedicalTendQuality>0.1</MedicalTendQuality>
-        </statOffsets>
       </li>
       <li>
         <minSeverity>0.6</minSeverity>
-        <statOffsets>
-          <MedicalTendSpeed>0.15</MedicalTendSpeed>
-          <MedicalTendQuality>0.15</MedicalTendQuality>
-        </statOffsets>
       </li>
       <li>
         <minSeverity>0.8</minSeverity>
-        <statOffsets>
-          <MedicalTendSpeed>0.2</MedicalTendSpeed>
-          <MedicalTendQuality>0.2</MedicalTendQuality>
-        </statOffsets>
       </li>
     </stages>
   </HediffDef>
 
   <RulePackDef>
-    <defName>BBLK_FirstAidBook_Namer</defName>
+    <defName>BBLK_BirthBook_Namer</defName>
     <rulePack>
       <rulesStrings>
         <li>title(quality[less_than]2)->[medField] for [dumb]</li>
@@ -119,7 +102,7 @@
   </RulePackDef>
 
   <RulePackDef>
-    <defName>BBLK_FirstAidBook_Description</defName>
+    <defName>BBLK_BirthBook_Description</defName>
     <rulePack>
       <rulesStrings>
         <li>desc->Some description</li>

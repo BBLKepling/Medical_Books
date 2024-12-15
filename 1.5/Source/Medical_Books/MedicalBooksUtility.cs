@@ -1,8 +1,4 @@
 ﻿using RimWorld;
-using System.Collections.Generic;
-using Verse.AI;
-using Verse;
-using System.Linq;
 
 namespace Medical_Books
 {
