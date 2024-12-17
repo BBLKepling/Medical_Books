@@ -4,7 +4,7 @@
   <Operation Class="PatchOperationAdd">
     <xpath>Defs/RitualOutcomeEffectDef[defName="ChildBirth"]/comps</xpath>
     <value>
-      <li Class="Medical_Books.RitualOutcomeComp_Hediff">
+      <li Class="Bibliophile_Framework.RitualOutcomeComp_Hediff">
         <label>{PAWN_labelShort}'s birth knowledge</label>
         <labelAbstract>doctor's birth knowledge</labelAbstract>
         <roleId>doctor</roleId>

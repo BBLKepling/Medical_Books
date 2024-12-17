@@ -8,10 +8,10 @@
   <packageId>bblkepling.medicalbooks</packageId>
   <description>Adds medical books to increase doctors capabilities.</description>
   <modDependencies>
-<!--    <li>
-      <packageId>brrainz.harmony</packageId>
-      <displayName>Harmony</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-    </li>-->
+    <li>
+      <packageId>bblkepling.framework.bibliophile</packageId>
+      <displayName>Bibliophile Framework</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/</steamWorkshopUrl>
+    </li>
   </modDependencies>
 </ModMetaData>

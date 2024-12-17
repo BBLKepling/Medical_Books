@@ -31,10 +31,21 @@
           <addTopAltitudeBias>true</addTopAltitudeBias>
         </verticalGraphic>
         <doers>
-          <li Class="Medical_Books.BookOutcomeProperties_AddHediff">
+          <li Class="Bibliophile_Framework.BookOutcomeProperties_AddHediff">
 		    <benefitsString>BBLK_SurgicalBook_Quality</benefitsString>
 		    <hediffDef>BBLK_SurgicalBook_Knowledge</hediffDef>
-		    <severityGain>0.001</severityGain>
+		    <severityTicks>60</severityTicks>
+		    <qualityCurve>
+		      <points>
+		      <li>(0, 0.001)</li>
+		      <li>(1, 0.002)</li>
+		      <li>(2, 0.003)</li>
+		      <li>(3, 0.004)</li>
+		      <li>(4, 0.005)</li>
+		      <li>(5, 0.006)</li>
+		      <li>(6, 0.007)</li>
+		      </points>
+		    </qualityCurve>
           </li>
         </doers>
       </li>
